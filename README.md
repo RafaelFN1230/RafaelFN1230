@@ -3,8 +3,6 @@
 - 📚 I'm currently learning Python and C#
 - 😉 Pronouns: He/Him
 - 🏡 I'm from Salvador/BA - Brazil
--
-
 ##
 
 <div align="center">
