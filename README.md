@@ -1,4 +1,9 @@
 ### Hi there, my name is Rafael Figliuolo👋
+- 👨🏻‍🎓 I'm studying computer science at University Ruy Barbosa (UNIRUY)
+- 📚 I'm currently learning Python and C#
+- 😉 Pronouns: He/Him
+- 🏡 I'm from Salvador/BA - Brazil
+##
 
 <div align="center">
   <a href="https://github.com/RafaelFN1230">
