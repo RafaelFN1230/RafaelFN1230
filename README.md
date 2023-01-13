@@ -3,6 +3,7 @@
 - 📚 I'm currently learning Python and C#
 - 😉 Pronouns: He/Him
 - 🏡 I'm from Salvador/BA - Brazil
+- 👨🏻‍💻 Searching for a internship as a Back-End developer.
 ##
 
 
