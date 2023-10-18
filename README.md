@@ -3,7 +3,7 @@
 - 📚 I'm currently learning Python and JavaScript
 - 😉 Pronouns: He/Him
 - 🏡 I'm from Salvador/BA - Brazil
-- 👨🏻‍💻 Searching for a internship as a Back-End developer.
+- 👨🏻‍💻 Searching for a internship as a RPA developer.
 ##
 
 
