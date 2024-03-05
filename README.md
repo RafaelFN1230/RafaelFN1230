@@ -1,9 +1,8 @@
 ### Hi there, my name is Rafael Figliuolo👋
 - 👨🏻‍🎓 I'm studying computer science at University Ruy Barbosa (UNIRUY)
 - 📚 I'm currently learning Python and JavaScript
-- 😉 Pronouns: He/Him
 - 🏡 I'm from Salvador/BA - Brazil
-- 👨🏻‍💻 Searching for a internship as a RPA developer.
+- 👨🏻‍💻 RPA developer
 ##
 
 
