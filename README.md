@@ -1,8 +1,8 @@
 ### Hi there, my name is Rafael Figliuolo👋
 - 👨🏻‍🎓 I'm studying computer science at University Ruy Barbosa (UNIRUY)
-- 📚 I'm currently learning Python and JavaScript
+- 📚 I'm a junior software developer Python and JavaScript
 - 🏡 I'm from Salvador/BA - Brazil
-- 👨🏻‍💻 RPA developer
+- 👨🏻‍💻 RPA developer | Full Stack
 ##
 
 
